@@ -31,7 +31,8 @@ To get a local copy up and running, follow these steps:
 
 ## Usage
 
-- Click and drag the mouse over the grid to draw.
+- Click the button and input the size of the grid.
+- Just drag the mouse over the grid to draw.
 - Use the "Reset" button to clear the drawing area and start fresh.
 
 ## Live Demo 🚀
