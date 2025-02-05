@@ -34,3 +34,7 @@ To get a local copy up and running, follow these steps:
 - Click and drag the mouse over the grid to draw.
 - Use the "Reset" button to clear the drawing area and start fresh.
 
+## Live Demo 🚀
+
+You can see the live demo of the Etch-a-Sketch project [HERE](https://rhuanlucasdev.github.io/theodinproject-Etch-a-Sketch/).
+
